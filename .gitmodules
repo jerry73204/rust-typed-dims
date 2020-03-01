@@ -1,0 +1,3 @@
+[submodule "rust-type-freak"]
+	path = rust-type-freak
+	url = https://github.com/jerry73204/rust-type-freak.git
